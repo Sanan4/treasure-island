@@ -1,2 +1,2 @@
 # treasure-island
-Small RPG story gam,e played with text.
+Small RPG story game played with text.
